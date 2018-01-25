@@ -1,0 +1,59 @@
+p {
+  font-size: 20px;
+  color: #0f38ff;
+  margin-left: 150px; }
+
+#module {
+  max-height: 3000px;
+  border: 1px solid #999;
+  border-radius: 3px;
+  width: 350px;
+  margin-top: 50px;
+  margin-left: 50px;
+  min-height: 60px;
+  box-shadow: 0px 1px #bbb;
+  transition: all .3s; }
+
+.module-bar {
+  position: relative;
+  margin: 20px 30px 0px 30px;
+  width: 200px; }
+
+.module-content {
+  height: auto;
+  position: relative;
+  margin: 20px 30px 30px 30px;
+  text-align: justify;
+  transition: visibility .6s, opacity .6s; }
+
+.module-button {
+  position: relative;
+  float: left;
+  left: 270px;
+  top: -36px;
+  height: 36px; }
+
+.btn {
+  background-image: none;
+  border: none;
+  box-shadow: none;
+  background-color: #dc2525;
+  color: #fff;
+  font-size: 16px 1.6rem !important;
+  font-weight: bold;
+  margin-left: 0px;
+  padding: 0 20px 0 20px;
+  text-align: center;
+  border-radius: 5px;
+  transition: background-color .5s ease-out; }
+
+.btn:hover {
+  box-shadow: none;
+  transition: background-color .5s ease-out;
+  background-color: #b70404; }
+
+.btn:active {
+  box-shadow: none;
+  border: none; }
+
+/*# sourceMappingURL=module-styling.css.map */
